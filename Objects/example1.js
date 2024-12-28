@@ -1,0 +1,1 @@
+// Create JavaScript objects based on objects in your current environment.
