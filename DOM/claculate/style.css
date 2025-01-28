@@ -1,0 +1,26 @@
+
+/* Resetting margins for consistent centering */
+body, html {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    /* background-color: #f0f0f0; */
+  }
+  
+  /* Styling the centered div */
+  /* .centered-box {
+    
+  } */
+  #center{
+    width: 800px;
+    height: 400px;
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(5, 162, 47, 0.2);
+}

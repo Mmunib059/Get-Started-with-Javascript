@@ -1,0 +1,25 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+   
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    height: 100vh;
+    width: 100vh;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    /* padding: 20px; */
+}
+
+#center {
+    width: 50%;
+    height: 50%;
+    background-color: aquamarine;
+    /* border: 1px solid #333; Corrected border property */
+}
